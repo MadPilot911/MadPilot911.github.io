@@ -124,15 +124,13 @@ h1 {
 	display: inline-block;
 	width: 140px;
 	height: 45px;
-	background-image: url(../assets/button.png);
+	background: url(../assets/button.png);
+	
 }
 
-}
+
 .slider .slider-button:hover {
-	background: #055b91;
-	border: 1px solid #055b91;
-	border-radius: 3px;
-	line-height: 3.1;
+	background: url(../assets/button-hover.png);
 }
 
 /*ok, it will be servises now*/
